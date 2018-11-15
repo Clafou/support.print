@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Support
-description:        Support site for the Print to Size app
+title:              Support – Print to Size
+description:        Help on Print to Size
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -24,28 +24,28 @@ logo_image:
 
 # Author settings, displayed on about page
 author:
-    name:           John Smith
+    name:           Sébastien Molines
     email:
     website:
-    facebook:       https://www.facebook.com/
+    facebook:
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:      https://www.instagram.com/
+    instagram:
     linkedin:
     pinterest:
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
+    twitter:        https://twitter.com/clafou
+    vimeo:
     youtube:
 
 # Social share buttons
 twitter_username:   clafou
-github_username:    clafou
+github_username:
 
 # Default footer image settings
 footer:
-    copyright:      Clafou Ltd
+    copyright:      ©2018 Clafou Ltd
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:

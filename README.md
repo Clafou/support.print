@@ -1,6 +1,4 @@
-# Desk is a premium knowledge base and faq Jekyll theme
-
-Desk was developed by [Ivan Chromjak](https://ivanchromjak.com) for [jekyll.plus](https://jekyll.plus/), theme [live demo](https://desk.jekyll.plus/) available.
+`bundle exec jekyll serve`
 
 ## Features
 
@@ -31,47 +29,14 @@ Run the following to generate your site:
 ```bash
 bundle exec jekyll serve
 ```
-
-You can find more on [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
 ## Setup
 
 ### Site and author details
-Add your site and author details in `_config.yml`:
-```yaml
-# Site title and description
-title:              Desk - Helpdesk Jekyll Theme
-description:        Knowledge base Jekyll theme.
-
-# Site base hostname & protocol, e.g. http://example.com
-url:                "https://desk.jekyll.plus"
 
 # Site logo, dark and light depending on page hero text setting dark/light
 logo_image:
     light:          logo-light.svg  # e.g. logo.png, upload logo image file to /assets/posts/ folder
     dark:           logo-dark.svg  # e.g. logo.png, upload logo image file to /assets/posts/ folder
-
-# Author settings
-author:
-    name:           Jim Smith
-    email:          john@somewebsite.com
-    website:        http://somewebsite.com
-    facebook:       https://www.facebook.com/
-    flickr:         https://flickr.com/
-    dribbble:       https://dribbble.com/
-    github:         https://github.com/
-    googleplus:     https://plus.google.com/
-    instagram:      https://www.instagram.com/
-    linkedin:       https://www.linkedin.com/feed/
-    pinterest:      https://www.pinterest.com/
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
-    youtube:        https://www.youtube.com/
-
-# Social share buttons
-twitter_username:   ivanchromjak
-github_username:    ivanchromjak
-```
 
 ### Navigation Bar
 Set in the main navigation links in `_data/navigation_header.yml`:
@@ -283,4 +248,4 @@ bundle exec jekyll s --livereload
 - Jekyll CML https://jekyllrb.com/
 
 ## Support
-Customer support is provided through our Envato profile page [contact form](https://themeforest.net/user/pressapps) for up to six months from the purchase date and is provided Monday to Friday during the business week. We aim to answer all support requests daily, most are handled within 48h.
+Customer support is provided through (redacted) for up to six months from the purchase date and is provided Monday to Friday during the business week. We aim to answer all support requests daily, most are handled within 48h.

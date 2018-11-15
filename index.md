@@ -1,22 +1,22 @@
 ---
 layout: help
-title: How Can We Help?
-subtitle: Find advice and answers from our support team fast or get in touch
+title: How Can I Help?
+subtitle: Support for the Print to Size App
 hero:
     background: "#663399"
     image: header_2.jpg
-    overlay: "linear-gradient(-200deg, rgba(101, 51, 153, 0.9) 0%, rgba(90, 51, 153, 0.9) 53%, rgba(71, 51, 153, 0.9) 100%)"
+    overlay: rgba(191, 48, 105, 0.9)
     align: center
     text: light
     search: true
 category:
-    columns: 3
+    columns: 2
 featured:
     title: Featured Articles
     tag: featured
 cta:
     title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
-    button_text: Contact Us   
+    subtitle: Drop me a line
+    button_text: Contact   
     button_url: /contact/      
 ---

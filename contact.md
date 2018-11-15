@@ -1,10 +1,10 @@
 ---
 layout: contact
-title: Got Any Questions
+title: Getting in Touch
 permalink: /contact/
 formspree:
-    email: my_name@gmail.com
+    email: feedback@clafou.com
     redirect: /thanks/
 ---
 
-Submit the form and confirm your email address at [FormSpree](https://formspree.io/). Then add the following lines to contact page YAML Front Matter.
+If you have a technical issue, tap on "Send Feedback" in the app to send me email. This will attach a debug log that will help me investigate. Alternatively, just use the form below to get in touch. Looking forward to hearing from you! – Seb
