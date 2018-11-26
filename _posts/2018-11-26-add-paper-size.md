@@ -34,7 +34,7 @@ function addPaper() {
             <option value="cm">Centimeters</option>
         </select>
         <div class="uk-form-row">
-            <button class="uk-button" onclick="return addPaper()">Add Size</button>
+            <button class="uk-button-primary" onclick="return addPaper()">Add Size</button>
         </div>
     </fieldset>
 </form>
