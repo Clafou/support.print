@@ -19,7 +19,7 @@ function addPaper() {
     var h = fields["height"].value;
     var unit = fields["unit"].value;
     var url = "print-to-size://x-callback-url/addPaper?w=" + w + "&h=" + h + "&unit=" + unit;
-    alert(url);
+    window.open(url);
     return false;
 }
 </script>
