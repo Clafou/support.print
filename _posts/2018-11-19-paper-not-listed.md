@@ -15,6 +15,6 @@ It only affects some users, some of the time, in some of the apps.
 * Try restarting the iPhone/iPad.
 * If none of the above solves this problem, try deleting Print to Size and re-installing it from the App Store. Some people have reported that doing so has made the issue go away for them.
 
-As a workaround you can [Printing outside the app](/printing-outside-the-app/). And as with any app that is not performing as expected you are entitled to [a refund for your purchase of the app](/refund)
+As a workaround you can [print outside the app](/printing-outside-the-app/). And as with any app that is not performing as expected you are entitled to [a refund for your purchase of the app](/refund)
 
 
