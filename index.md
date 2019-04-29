@@ -11,9 +11,9 @@ hero:
     search: true
 category:
     columns: 2
-featured:
-    title: Featured Articles
-    tag: featured
+#featured:
+#    title: Featured Articles
+#    tag: featured
 cta:
     title: Didn't find an answer to your question?
     subtitle: Drop me a line
