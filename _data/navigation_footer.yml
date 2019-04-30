@@ -1,13 +1,10 @@
 # Footer navigation links
 
-- title: Help
-  url: /
-
-- title: Faq
-  url: /faq/
-
-- title: Contact
-  url: /contact/
+- title: Print to Size
+  url: http://www.printtosize.com
 
 - title: Clafou.com
   url: http://www.clafou.com/
+
+- title: Contact
+  url: /contact/

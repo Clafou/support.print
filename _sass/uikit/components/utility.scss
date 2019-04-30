@@ -432,6 +432,8 @@ $dragover-box-shadow:                            0 0 20px rgba(100,100,100,0.3) 
     font-size: $logo-font-size;
     font-family: $logo-font-family;
     color: $logo-color;
+    width: 80px;
+    height: 80px;
     /* 1 */
     text-decoration: none;
     @if(mixin-exists(hook-logo)) {@include hook-logo();}

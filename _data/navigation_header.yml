@@ -1,9 +1,11 @@
 # Navbar menu navigation links
-- title: Help
+- title: Print to Size
+  url: http://www.printtosize.com
+
+- title: FAQ
+  url: /faq
+
+- title: Support
   url: /
 
-- title: Contact
-  url: /contact/
-
-- title: Clafou.com
-  url: http://www.clafou.com/
+  
