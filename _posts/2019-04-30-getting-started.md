@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use the app
+title: How to Use the App
 categories: [Getting Started]
 ---
 

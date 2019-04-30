@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Access denied when I try to add a photo
+title: Access Denied When I Try to Add a Photo
 categories: [Troubleshooting]
 ---
 
