@@ -4,7 +4,7 @@ title: Access Denied When I Try to Add a Photo
 categories: [Troubleshooting]
 ---
 
-In order to add photos via the + button, the app requires permission to the photos on your device. If you have denied access when first asked, please follow these steps:
+In order to add photos via the + button, the app requires permission to access the photos on your device. If you have denied access when first asked, please follow these steps:
 
 * Open the Settings app on your iPhone or iPad.
 * Tap on Privacy.
