@@ -6,9 +6,9 @@ categories: [Troubleshooting]
 
 ### Version 1.7.2 and iOS 13
 
-* If you are using iOS 13 (or iPadOS 13), nothing happens when you tap print for the second (and subsequent) time. For now you can avoid this bug by re-selecting your printer:
-    * Tap on the Print icon to open the Print panel
-    * Open the printer chooser by tap on your printer's name
+* If you are using iOS 13 (or iPadOS 13), nothing happens when you print a page for the second (and subsequent) time. For now you can avoid this bug by re-selecting your printer:
+    * Tap on the Print icon to open the Print panel.
+    * Open the AirPrint printer chooser (tap on on your printer's name under "Printer").
     * Tap on your printer's name to re-apply your choice.
     * You should now be able to print successfully again.
 
