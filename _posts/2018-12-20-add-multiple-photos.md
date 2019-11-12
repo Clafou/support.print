@@ -4,7 +4,7 @@ title: How to Add Multiple Photos At Once
 categories: [Troubleshooting]
 ---
 
-The image picker accessed via the + button only allows you to select one photo. This is a limitation of the built-in iOS image picker which does not currently provide support for multiple selections.
+The image picker accessed via the + button only allows you to select one photo at a time. If you are printing a lot of photos it can be tedious to reopen the image picker multiple times.
 
 However you can add multiple images at once from your Photos app by via copy/paste or, if you are using an iPad, via drag & drop.
 

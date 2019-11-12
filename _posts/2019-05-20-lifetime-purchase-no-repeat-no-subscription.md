@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Cancel subscription? No such thing, it's a one-off purchase
+title: Your Invoice from Apple – Not a Subscription
 categories: [Refunds, Troubleshooting]
 ---
 
-Subscriptions in the App Store can be confusing. To make it worse, Apple sometimes waits for several days before charging you after an app purchase, so it can look like you've been charged more than once.
-
+When you buy an app like Print to Size, it can take a few days for Apple to charge your account and to send you an email. Don't worry, though, it's not a repeat payment, just a delay.
 
 ## Print to Size is **not** a subscription
 It is an old-school "paid app": you can buy the app, and it is a lifetime, [refundable](/refund), one-off purchase. Once you have purchased it is yours to use forever and you will never be charged again for it.
