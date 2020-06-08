@@ -2,8 +2,7 @@
 layout: contact
 title: Getting in Touch
 permalink: /contact/
-formspree:
-    email: feedback@clafou.com
+netlify-form:
     redirect: /thanks/
 ---
 
