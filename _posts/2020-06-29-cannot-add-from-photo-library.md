@@ -16,7 +16,7 @@ If you are experiencing issues with the photo library accessed via the + button,
 
 ## Not Fixed? Try Restarting Your Device
 
-If your Photo Library uses iCloud, there may be an iCloud-related issue. Sometimes a full restart solves such problems. [Click here to read how to restart your iPhone or iPad here.](https://support.apple.com/en-us/HT201559)
+If your Photo Library uses iCloud, there may be an iCloud-related issue. Sometimes a full restart solves such problems. [Click here to read how to restart your iPhone or iPad.](https://support.apple.com/en-us/HT201559)
 
 ## Still Not Working?
 
