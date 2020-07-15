@@ -3,6 +3,9 @@ layout: post
 title: Known Bugs
 categories: [Troubleshooting]
 ---
+### Version 1.8
+
+A crash occurs on iOS 9. This will be fixed shortly in version 1.8.1
 
 ### Version 1.7.2 and iOS 13
 
