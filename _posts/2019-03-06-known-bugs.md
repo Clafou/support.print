@@ -3,9 +3,13 @@ layout: post
 title: Known Bugs
 categories: [Troubleshooting]
 ---
+### Version 1.8.1: No known bugs
+
+Beta users: Crashes seem to happen on pre-release iOS 14.
+
 ### Version 1.8
 
-A crash occurs on iOS 9. This will be fixed shortly in version 1.8.1
+A crash occurs on iOS 9. This is fixed in the version 1.8.1 update.
 
 ### Version 1.7.2 and iOS 13
 
