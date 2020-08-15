@@ -3,9 +3,12 @@ layout: post
 title: Known Bugs
 categories: [Troubleshooting]
 ---
-### Version 1.8.1: No known bugs
+### Version 1.8.2
 
-* Beta users: Crashes seem to happen on pre-release iOS 14.
+* When you open the app, the default paper size is A4 even if you live in the US.
+* Beta users: Crashes happen on pre-release iOS 14 after completing a print.
+
+A fix to the above bugs is on its way in the next app update.
 
 ### Version 1.8
 
