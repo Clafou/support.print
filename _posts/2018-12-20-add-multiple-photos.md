@@ -4,7 +4,9 @@ title: How to Add Multiple Photos At Once
 categories: [Troubleshooting]
 ---
 
-The image picker accessed via the + button only allows you to select one photo at a time. If you are printing a lot of photos it can be tedious to reopen the image picker multiple times.
+This issue is resolved with iOS 14 and its new image picker.
+
+But if you are using an older version of iOS, the + button only allows you to select one photo at a time. If you are printing a lot of photos it can be tedious to reopen the image picker multiple times.
 
 However you can add multiple images at once from your Photos app by via copy/paste or, if you are using an iPad, via drag & drop.
 
@@ -23,4 +25,4 @@ However you can add multiple images at once from your Photos app by via copy/pas
 
 See [this page](https://www.imore.com/how-use-drag-and-drop-ipad) to learn how to use this approach on iPad.
 
-Note: Because iOS only supports drag & drop across apps on iPad, this method does not work on iPhone and iPod Touch.
+Note: Because drag & drop across apps is an iPadOS-only feature, this method does not work on iPhone and iPod Touch.

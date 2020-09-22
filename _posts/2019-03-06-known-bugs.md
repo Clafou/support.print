@@ -3,12 +3,21 @@ layout: post
 title: Known Bugs
 categories: [Troubleshooting]
 ---
+### Version 1.8.4
+
+No known bug. Please get in touch if you find one!
+
+### Version 1.8.3 and iOS 14
+
+* On iOS 14, adding a photo may fail due to changes in the iOS Photos privacy settings. Update your app to version 1.8.4 to get the new iOS 14 support which resolves this.
+
+### Version 1.8.3
+
+* When you open the app, the default paper size is A4 even if you live in the US.
+
 ### Version 1.8.2
 
 * When you open the app, the default paper size is A4 even if you live in the US.
-* Beta users: Crashes happen on pre-release iOS 14 after completing a print.
-
-A fix to the above bugs is on its way in the next app update.
 
 ### Version 1.8
 
