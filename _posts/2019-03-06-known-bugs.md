@@ -7,13 +7,9 @@ categories: [Troubleshooting]
 
 No known bug. Please get in touch if you find one!
 
-### Version 1.8.3 and iOS 14
+### Existing users who upgraded to iOS 14
 
-* On iOS 14, adding a photo may fail due to changes in the iOS Photos privacy settings. Update your app to version 1.8.4 to get the new iOS 14 support which resolves this.
-
-### Version 1.8.3
-
-* When you open the app, the default paper size is A4 even if you live in the US.
+* On iOS 14, adding an image may fail due to changes in the iOS photo gallery privacy settings. Simply [update your app](https://support.apple.com/en-us/HT202180#manual) to the latest version to fix this issue.
 
 ### Version 1.8.2
 
