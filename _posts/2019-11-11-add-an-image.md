@@ -6,7 +6,7 @@ categories: [Troubleshooting]
 
 ## Via the + Button
 
-Tapping on the + button opens the iOS image picker. It only lets you choose one image at the time, and it cannot access images that are not in your iOS Photos app – e.g. this won't let you choose photos in Google Photos. In such cases, or if you wish to add multiple photos, please see the alternatives below.
+Tapping on the + button opens the iOS image picker, which lets you choose images from the Photos app. If you wish to add images that are not in your Photos app, such as pictures from Google Photos, please see the alternatives below.
 
 ## Adding a Photo via Copy/Paste
 
