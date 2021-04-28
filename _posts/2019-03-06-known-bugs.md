@@ -3,9 +3,9 @@ layout: post
 title: Known Bugs
 categories: [Troubleshooting]
 ---
-### Version 1.8.4
+### Version 1.8.6
 
-No known bug. Please get in touch if you find one!
+Some users have reported that when they try to print a page containing multiple images, some of these images do not get printed. This appears to only affect Selphy printers. An update will be ready soon to fix this bug. Until then there is a workaround that you can use when printing multiple images if you are affected: [export as PDF or JPEG and print from there](https://support.printtosize.com/printing-outside-the-app/).
 
 ### Existing users who upgraded to iOS 14
 
