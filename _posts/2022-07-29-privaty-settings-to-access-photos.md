@@ -17,3 +17,7 @@ The good news is that this appears to be a glitch in iOS. Simply restarting your
 ## How to restart your device
 
 It depends on the device and model. Apple provide instructions on how to restart each model of iPhone [here](https://support.apple.com/en-us/HT201559) and iPad [here](https://support.apple.com/en-us/HT210631).
+
+## Still Not Working?
+
+Please get in touch to let me know! As for a workaround, the + button is not the only way to add images. You can also use Copy/Paste or drag & drop. [See this page for instructions.](/add-an-image/)
