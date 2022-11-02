@@ -6,9 +6,9 @@ categories: [Troubleshooting]
 
 This warning occurred because the printer is using a different paper size than the one you selected.
 
-## iOS 16 Bug
+## Sounds like a bug? An update is available!
 
-If your iPhone or iPad is running the latest operating system (iOS 16 or iPadOS 16) and you are seeing this, then it is due to a bug that has just been identified in AirPrint and that causes it to report that no paper of any size is available after a first printing attempt, and which can also lead to a crash in subsequent printing attempts. An update is on its way to fix this. In the meantime you can export the page and print in your printer manufacturer's app as per [this workaround](/printing-outside-the-app).
+If this error message is unexpected, please install the latest Print to Size update (version 1.9). It includes a fix for a bug that causes this message to wrongly appear on iOS 16. To get the app update, open the Print to Size page on the App Store (or just [click here](https://apps.apple.com/us/app/print-to-size/id949490225?uo=4)) and tap on the Update button.
 
 ## Why did I get a blank print?
 
@@ -16,8 +16,10 @@ If the app had tried to print anyway, then your print could have been wrong, was
 
 ## What can I do to fix this issue?
 
-If the app is wrong and your paper size is supported, please wait for the next app update for the bug fix. I will update this page when it is available. In the meantime you can export the page and print in your printer manufacturer's app as per [this workaround](/printing-outside-the-app).
+Choose a different paper size. If you tap on "Choose a Supported Paper Size", the app will show you the paper sizes that are currently available in your printer.
 
-If this error is not a bug and the paper size is indeed not supported, choose a different paper size. If you tap on "Choose a Supported Paper Size", the app will show you the paper sizes that are currently available in your printer.
+If you have another way to print at the desired size (such as your printer manufacturer's own app or a computer), you can export the page and print it outside the app, as [explained here](/printing-outside-the-app).
 
-If a valid paper size is being rejected, then there could be a problem in the paper size detection system. Please try turning off your printer and your iPhone or iPad, then turning them back on. It may help to open and close your paper trays or to refill them, in case your printer is failing to detect them.
+If the app is wrong and your paper size is supported, please check that you are using the latest Print to Size update (version 1.9).
+
+It could also be a problem in your printer's paper detection system. Please try turning off your printer and your iPhone or iPad, then turning them back on. It may help to open and close your paper trays or to refill them, in case your printer is failing to detect paper.
