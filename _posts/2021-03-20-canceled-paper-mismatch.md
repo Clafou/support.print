@@ -6,9 +6,9 @@ categories: [Troubleshooting]
 
 This warning occurred because the printer is using a different paper size than the one you selected.
 
-## Sounds like a bug? An update is available!
+## Using iOS 16? This is a bug and should be fixed soon
 
-If this error message is unexpected, please install the latest Print to Size update (version 1.9). It includes a fix for a bug that causes this message to wrongly appear on iOS 16. To get the app update, open the Print to Size page on the App Store (or just [click here](https://apps.apple.com/us/app/print-to-size/id949490225?uo=4)) and tap on the Update button.
+For many users, printing directly in the app has stopped working properly on iOS 16, especially iOS 16.4. If you are seeing this page, then you are probably affected. I am really sorry and I am working hard on updating the app with a fix. For now you can work around this by exporting your page as PDF or JPEG from the Print page, then by choosing Print in the list at the bottom of the export panel (or by following [these steps](printing-outside-the-app)). Make sure to select the correct paper size there.
 
 ## Why did I get a blank print?
 
