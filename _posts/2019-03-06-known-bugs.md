@@ -4,9 +4,9 @@ title: Known Bugs
 categories: [Troubleshooting]
 ---
 
-### Version 1.8.8
+### Current version
 
-* On iOS 16, a new bug can cause printing to be cancelled wih a bogus error about paper size. This can also cause the app crash after a subsequent print. A fix will be included in the next app update. In the meantime, if you are unable to print directly from the app, this [workaround](/printing-outside-the-app) should enable you to continue using the app.
+* On iOS 16 and iOS 16.4, a new bug can cause printing to be cancelled (resulting in a blank print) wih a bogus error about paper sizes. I am working to solve this and will publish an app update as soon as possible. In the meantime, if you are unable to print directly from the app, this [workaround](/printing-outside-the-app) should enable you to continue using the app.
 
 ### Version 1.8.7
 
