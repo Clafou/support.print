@@ -4,6 +4,17 @@ title: Known Bugs
 categories: [Troubleshooting]
 ---
 
+### Version 1.9.3 / Public beta available
+
+Are you experiencing printing issues, such as jobs stopping before completion or your paper size being rejected even though it’s supported and loaded in your printer?
+
+With recent iOS updates, new AirPrint problems have emerged. Many of you who have used the app successfully for years are now facing these issues.
+
+To address this, I've been working on a major update to improve printing. This update will allow the app to send print jobs directly to the printer, bypassing the iOS printing system. This should solve problems related to paper size and margins, ensure more precise sizing, and eliminate bugs that arise from iOS/iPadOS updates.
+
+The update seems to work well with the printers I've tested, but I need more testers before I can release it. Would you like to try it? If so, you can get the beta from this link:
+[https://testflight.apple.com/join/dUKTel8V](https://testflight.apple.com/join/dUKTel8V)
+
 ### Version 1.9 to 1.9.2
 
 * On iOS 16 and iOS 16.4, a new bug can cause printing to be cancelled (resulting in a blank print) wih a bogus error about paper sizes. This should be fixed in version 1.9.3, now available in the App Store.
