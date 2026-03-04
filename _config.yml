@@ -35,17 +35,17 @@ author:
     instagram:
     linkedin:
     pinterest:
-    twitter:        https://twitter.com/clafou
+    twitter:
     vimeo:
     youtube:
 
 # Social share buttons
-twitter_username:   clafou
+twitter_username:
 github_username:
 
 # Default footer image settings
 footer:
-    copyright:      ©2020 Clafou Ltd
+    copyright:      © 2015-2026 Clafou Ltd
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
